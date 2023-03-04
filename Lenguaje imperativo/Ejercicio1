@@ -25,7 +25,7 @@ func main() {
 			lineas++
 		}
 	}
-	// Suma la última palabra queno detecta porque deja de contar en el último espacio
+	// Suma la última palabra que no detecta porque deja de contar en el último espacio
 	palabras++
 	fmt.Println("Texto de prueba:")
 	fmt.Println(texto)
