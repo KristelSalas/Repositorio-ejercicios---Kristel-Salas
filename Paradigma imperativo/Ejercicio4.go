@@ -76,7 +76,6 @@ func filter1(list Productos, f func(producto) bool) Productos {
 // ---------------------------------------------------------------------------------------------------
 // Funciones map y filter genericas PRACTICA
 
-// Recibe
 func map2[p1, p2 any](list []p1, f func(p1) p2) []p2 {
 	mapped := make([]p2, len(list))
 	for i, e := range list {
