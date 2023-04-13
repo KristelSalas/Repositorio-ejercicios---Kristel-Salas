@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WyMORutn95d5aYkJ/ZCb2JDqYgFuq7CHoDf7XNc9tl9RyuS9+qKR8gLQt3FAk2wEAdUkiF9i34F/d42S+jarVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\RiderProjects\\Ejercicio4\\Ejercicio4\\Ejercicio4.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
